@@ -1,7 +1,7 @@
 #!/bin/sh
 #  $Revision: 1.2.214.2 $ $Date: 96/11/25 11:28:01 $ $Author:    $
 set -v
-VERSION=1.2.215
+VERSION=1.2.300
 
 # Copyright Synchro Technologies S.A., 2005-2012
 #
